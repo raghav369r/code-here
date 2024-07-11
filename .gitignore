@@ -1,0 +1,4 @@
+/node_modules
+.firebas*
+dist
+.env
