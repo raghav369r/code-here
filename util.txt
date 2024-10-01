@@ -1,0 +1,2 @@
+sudo lsof -i :3000  -- running processes on port 3000
+sudo kill -9 59778  -- stop process with id 59778 (-9 to force stop)
